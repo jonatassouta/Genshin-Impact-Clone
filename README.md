@@ -1,5 +1,8 @@
 # Genshin-Impact-Clone
-Clone do Site do Genshin Impact Versao 2.0, usando Angular 
+Clone do Site do Genshin Impact Versao 2.0, usando Angular
+
+bootstrap -- 5.1.3
+OWL -- 6.0.0
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
