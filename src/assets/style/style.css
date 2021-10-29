@@ -15,7 +15,7 @@ body {
 
 p {
     color: #7D68D0;
-    font-size: 26px;
+    font-size: 22px;
 }
 
 a {
@@ -112,6 +112,11 @@ a {
   height: 632px;
 }
 
+#videovideo {
+  width: 358px;
+  height: 210px;
+}
+
 #esquerda {
     -moz-transform: scaleX(-1);
     -o-transform: scaleX(-1);
@@ -150,8 +155,8 @@ a {
 .rodape {
     width: 100%;
     height: auto;
-    margin-top: 100px;
-    background-color: black;
+    margin-top: 95px;
+    background-color: #111111;
 }
 
 .idioma {
@@ -206,3 +211,42 @@ img.card {
   margin-bottom: 40px;
 }
 
+
+.rodape a {
+  color: #999999;
+  font-size: 16px;
+}
+
+.rodape #a-rodape
+{
+  display: flex;
+  align-items: center;
+  width: auto;
+  height: 15px;
+  padding: 10px;
+  border-left: 1px solid white;
+}
+
+.rodape .links-rodape {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.rodape #copy{
+  color: white;
+  font-size: 16px;
+}
+
+.rodape #rodape-play p{
+  color: #999999;
+  font-size: 14px;
+}
+
+
+#idioma {
+  justify-content: center;
+  display: flex;
+  margin-bottom: 8px;
+  margin-top: 7px;
+  padding-top: 7px;
+}
